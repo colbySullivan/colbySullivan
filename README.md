@@ -4,7 +4,9 @@
 My name is Colby Sullivan I am a Computer Science student at Southwestern University. This page is very much a work in progress but you can also find me through LinkedIn on the icon above.
 
 <a href="https://github.com/colbySullivan/colbySullivan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colbySullivan&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-copy.vercel.app/api/top-langs/?username=colbySullivan&theme=shadow_green&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-[![Top Langs](https://github-readme-stats-colbysullivan.vercel.app/api/top-langs/?username=colbySullivan&layout=donut-vertical&count_private=true&)](https://github.com/colbySullivan/colbySullivan)
+<a href="https://github.com/colbySullivan/colbySullivan">
+  <img align="center" src="https://github-readme-stats-copy.vercel.app/api?username=colbySullivan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&theme=shadow_green&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
