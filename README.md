@@ -8,7 +8,7 @@ My name is Colby Sullivan I am a Computer Science student at Southwestern Univer
 </a>
 
 <a href="https://github.com/colbySullivan/colbySullivan">
-  <img align="center" src="https://github-readme-stats-copy.vercel.app/api?username=colbySullivan&show_icons=true&line_height=33&include_all_commits&count_private=true&title_color=ffffff&text_color=c9cacc&theme=shadow_green&icon_color=2bbc8a&bg_color=1d1f21" alt="Colby's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-copy.vercel.app/api?username=colbySullivan&show_icons=true&line_height=34&include_all_commits&count_private=true&title_color=ffffff&text_color=c9cacc&theme=shadow_green&icon_color=2bbc8a&bg_color=1d1f21" alt="Colby's GitHub Stats" />
 </a>
 
 [![Template Card](https://github-readme-stats.vercel.app/api/pin/?username=colbySullivan&repo=SFML-Template)](https://github.com/colbySullivan/SFML-Template)
