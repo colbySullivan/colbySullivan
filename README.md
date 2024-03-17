@@ -1,5 +1,5 @@
-[![Linkedin: Colby Sullivan](https://img.shields.io/badge/-ColbySullivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/colbywsullivan)](https://www.linkedin.com/in/colby-sullivan-448686257)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colby-sullivan-448686257)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://irishtrolls.itch.io/)
 ### Welcome
 My name is Colby Sullivan I am a Computer Science student at Southwestern University. This page is very much a work in progress but you can also find me through LinkedIn on the icon above.
 
